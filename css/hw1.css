@@ -1,0 +1,29 @@
+h1{ background: #B3B3B3;
+ color: #435687;
+text-transform: capitalize;
+}
+
+h2{background: #B4B3B5;
+ color: #567489;
+text-transform: capitalize;
+}
+
+header{
+background: #662686;
+
+}
+
+h1{ text-align: center; }
+
+nav{ color: #323242;
+background: #890069;
+text-align: center;
+}
+
+
+section{ background: #786549; }
+
+aside{ display: none;
+}
+
+
